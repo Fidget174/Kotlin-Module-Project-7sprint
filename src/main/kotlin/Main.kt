@@ -1,3 +1,5 @@
+import logic.Menu
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    Menu()
 }
